@@ -1,0 +1,30 @@
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.csproj.AssemblyReference.cache
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.AssemblyInfoInputs.cache
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.AssemblyInfo.cs
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\bin\Debug\net6.0\Lab8-Extensionmethod.exe
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\bin\Debug\net6.0\Lab8-Extensionmethod.deps.json
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\bin\Debug\net6.0\Lab8-Extensionmethod.runtimeconfig.json
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\bin\Debug\net6.0\Lab8-Extensionmethod.dll
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\bin\Debug\net6.0\Lab8-Extensionmethod.pdb
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.dll
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\refint\Lab8-Extensionmethod.dll
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.pdb
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.genruntimeconfig.cache
+C:\Users\saiko stores\Desktop\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\ref\Lab8-Extensionmethod.dll
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\bin\Debug\net6.0\Lab8-Extensionmethod.exe
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\bin\Debug\net6.0\Lab8-Extensionmethod.deps.json
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\bin\Debug\net6.0\Lab8-Extensionmethod.runtimeconfig.json
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\bin\Debug\net6.0\Lab8-Extensionmethod.dll
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\bin\Debug\net6.0\Lab8-Extensionmethod.pdb
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.csproj.AssemblyReference.cache
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.AssemblyInfoInputs.cache
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.AssemblyInfo.cs
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.dll
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\refint\Lab8-Extensionmethod.dll
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.pdb
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\Lab8-Extensionmethod.genruntimeconfig.cache
+C:\Users\saiko stores\3D Objects\Lab8-Extensionmethod\Lab8-Extensionmethod\obj\Debug\net6.0\ref\Lab8-Extensionmethod.dll
